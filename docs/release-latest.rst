@@ -7,6 +7,7 @@ On master
 .. rubric:: Bugfixes
 
 * Fixed `log1p` inplace on integer dense arrays :pr:`1400` :smaller:`I Virshup`
+* Fixed download path of `pbmc3k_processed` :pr:`1472` :smaller:`D Strobl`
 
 1.6.0 :small:`2020-08-15`
 ~~~~~~~~~~~~~~~~~~~~~~~~~
